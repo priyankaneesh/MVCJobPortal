@@ -1,0 +1,107 @@
+﻿@model MvcExercise.Dtos.UserDtos
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@ViewBag.ErrorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@ViewBag.SuccessMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="container    d-flex justify-content-center align-items-center">
+    <div class="col-lg-6 form-container mx-auto rounded border p-3">
+        <h2 class="text-center mb-3">Add User</h2>
+        <hr />
+        <form method="post">
+            <!-- First Name Section -->
+            <div class="form-group row mb-3">
+                <label class="form-label col-sm-4">First Name</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" asp-for="FirstName" name="FirstName" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Last Name Section -->
+            <div class="form-group row mb-3">
+                <label class="form-label col-sm-4">Last Name</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" asp-for="LastName" name="LastName" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Email Section -->
+            <div class="form-group row mb-3">
+                <label class="form-label col-sm-4">Email</label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control" asp-for="Email" name="Email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Gender Section -->
+            <div class="form-group row mb-3">
+                <label class="form-label col-sm-4">Gender</label>
+                <div class="col-sm-8">
+                    <select class="form-control" asp-for="Gender" name="Gender">
+                        <option value="">Select Gender</option>
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                        <option value="Other">Other</option>
+                    </select>
+                    <span asp-validation-for="Gender" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Phone Section -->
+            <div class="form-group row mb-3">
+                <label class="form-label col-sm-4">Phone</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" asp-for="Phone" name="Phone" />
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Password Section -->
+            <div class="form-group row mb-3">
+                <label class="form-label col-sm-4">Password</label>
+                <div class="col-sm-8">
+                    <input type="password" class="form-control" asp-for="password" name="password" />
+                    <span asp-validation-for="password" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Role Section -->
+            <div class="form-group row mb-3">
+                <label class="form-label col-sm-4">Role</label>
+                <div class="col-sm-8">
+                    <select class="form-control" asp-for="Role" name="Role">
+                        <option value="">Select Role</option>
+                        <option value="JobSeeker">Job Seeker</option>
+                        <option value="JobProvider">Job Provider</option>
+                        
+                    </select>
+                    <span asp-validation-for="Role" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" href="/">Cancel</a>
+                </div>
+            </div>
+        </form>
+        <hr />
+        <br />
+    </div>
+</div>

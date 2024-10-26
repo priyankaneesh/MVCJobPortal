@@ -1,0 +1,65 @@
+﻿@model List<MvcExercise.Models.SavedJobs>
+
+@{
+    Layout = "_LayoutJobSeeker";
+}
+
+<div class="container mt-5">
+    <h2>My Saved Jobs</h2>
+
+    <hr />
+
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>@ViewBag.ErrorMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    @if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@ViewBag.SuccessMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Job Title</th>
+                <th>Company</th>
+                <th>Location</th>
+                <th>Saved Date</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var savedJob in Model)
+                {
+                    <tr>
+                        <td>@savedJob.Job.Title</td>
+                        <td>@savedJob.Job.CompanyName</td>
+                        <td>@savedJob.Job.Location</td>
+                        <td>@savedJob.SavedDate.ToString("MMMM dd, yyyy")</td>
+                        <td>
+                            <form asp-action="SaveRemove" asp-controller="JobSeeker" method="post">
+                                <input type="hidden" name="id" value="@savedJob.Id" />
+                                <button type="submit" class="btn btn-danger p-1">Remove</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5">No Jobs Saved</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="/JobSeeker/Index" class="btn btn-primary">Back</a>
+</div>

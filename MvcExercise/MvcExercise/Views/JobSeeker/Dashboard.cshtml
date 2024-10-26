@@ -1,0 +1,36 @@
+﻿@{
+    Layout = "_LayoutJobSeeker";
+}
+
+<div class="container mt-5">
+    <h2>Dashboard</h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-12">
+            <h5>User Details</h5>
+            <p><strong>Name:</strong> @ViewBag.Name</p>
+            <p><strong>Email:</strong> @ViewBag.Email</p>
+        </div>
+         
+    </div>
+    <div class="row mt-3">
+        <div class="col-md-6">
+            <div class="card rounded shadow hover-shadow">
+                <div class="card-body">
+                    <h5 class="card-title text-success">Total Applied Jobs</h5>
+                    <p class="card-text fs-4">@ViewBag.AppliedJobsCount</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card rounded shadow hover-shadow">
+                <div class="card-body">
+                    <h5 class="card-title text-success">Total Saved Jobs</h5>
+                    <p class="card-text fs-4">@ViewBag.SavedJobsCount</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

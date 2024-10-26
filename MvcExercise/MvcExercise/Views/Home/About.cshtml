@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "About Us - JobPortal";
+    Layout = "_LayoutJobSeeker.cshtml";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center text-primary mb-4">About JobPortal</h1>
+    <section>
+        <h2 class="section-heading"><i class="fas fa-briefcase icon"></i> Our Mission</h2>
+        <p>
+            JobPortal is dedicated to connecting job seekers with employers, fostering a seamless and effective job search experience. Our mission is to create a reliable and user-friendly platform where job seekers can find opportunities that match their skills and goals, while employers can efficiently discover the right talent.
+        </p>
+    </section>
+    <section>
+        <h2 class="section-heading"><i class="fas fa-star icon"></i> Key Features</h2>
+        <ul class="list-unstyled">
+            <li><i class="fas fa-check-circle icon me-2"></i> Comprehensive job listings across various industries</li>
+            <li><i class="fas fa-check-circle icon me-2"></i> Advanced search filters to find tailored job matches</li>
+            <li><i class="fas fa-check-circle icon me-2"></i> Resume and profile management for easy applications</li>
+            <li><i class="fas fa-check-circle icon me-2"></i> Real-time notifications for new job opportunities</li>
+            <li><i class="fas fa-check-circle icon me-2"></i> Company profiles to help job seekers learn about potential employers</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2 class="section-heading"><i class="fas fa-handshake icon"></i> Our Values</h2>
+        <p>
+            We believe in transparency, quality, and support. JobPortal strives to provide a platform where all users feel valued and supported throughout their job search or hiring journey. We’re committed to maintaining a trustworthy and efficient service that empowers people to achieve their career aspirations.
+        </p>
+    </section>
+
+    <section class="text-center mt-4">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Back to Home</a>
+    </section>
+</div>
+
+<!-- Optional JavaScript for Bootstrap -->
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

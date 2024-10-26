@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcExercise
+build_property.RootNamespace = MvcExercise
+build_property.ProjectDir = D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/CompanyMember/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueU1lbWJlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/IPublicUser/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSVB1YmxpY1VzZXJcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/IPublicUser/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSVB1YmxpY1VzZXJcUmVnaXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobProvide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iUHJvdmlkZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobSeeker/Apply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iU2Vla2VyXEFwcGx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobSeeker/ApplyedJobsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iU2Vla2VyXEFwcGx5ZWRKb2JzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobSeeker/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iU2Vla2VyXERhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobSeeker/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iU2Vla2VyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobSeeker/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iU2Vla2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobSeeker/SavedJobsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iU2Vla2VyXFNhdmVkSm9ic0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobSeeker/SaveJobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iU2Vla2VyXFNhdmVKb2JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/JobSeeker/SaveRemove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iU2Vla2VyXFNhdmVSZW1vdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/Shared/_LayoutJobProvider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRKb2JQcm92aWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/Shared/_LayoutJobSeeker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRKb2JTZWVrZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net-core-Bootcamp-batch-09/Chapter 8/Students/Priyanka/MvcExercise/MvcExercise/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eh80iw0cy0

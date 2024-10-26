@@ -1,0 +1,47 @@
+﻿@model MvcExercise.Models.Job
+@{
+    Layout = "_LayoutJobSeeker";
+}
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@ViewBag.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@ViewBag.successMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title text-primary">@Model.Title</h2>
+            <hr />
+            <div class="row">
+                <div class="col-md-6">
+                    <p><strong>Description:</strong> @Model.Description</p>
+                    <p><strong>Salary:</strong> @Model.Salary.ToString("C")</p>
+                    <p><strong>Location:</strong> @Model.Location</p>
+                    <p><strong>Posted Date:</strong> @Model.PostedDate.ToString("MMMM dd, yyyy")</p>
+                    <p><strong>Employment Type:</strong> @Model.EmploymentType</p>
+                    <p><strong>Experience Level:</strong> @Model.ExperienceLevel</p>
+                    <p><strong>Requirements:</strong> @Model.Requirements</p>
+                    <p><strong>Benefits:</strong> @Model.Benefits</p>
+                    <p><strong>Company Name:</strong> @Model.CompanyName</p>
+                    <p><strong>Company Description:</strong> @Model.CompanyDescription</p>
+                </div>
+            </div>
+            <div class="mt-4">
+                <a href="@Url.Action("Index", "JobSeeker")" class="btn btn-secondary">Back to Job Listings</a>
+                <form asp-action="Apply" asp-controller="JobSeeker" method="post">
+                    <input type="hidden" name="id" value="@Model.Id" />
+                    <button type="submit" class="btn btn-primary">Apply Now</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

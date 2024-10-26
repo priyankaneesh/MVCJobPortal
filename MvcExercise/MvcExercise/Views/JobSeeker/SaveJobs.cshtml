@@ -1,0 +1,59 @@
+﻿@model List<MvcExercise.Models.SavedJobs>
+@{
+    Layout = "_LayoutJobSeeker";
+}
+
+<div class="container mt-5">
+    <h2>My Applied Jobs</h2>
+
+    <hr />
+
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>@ViewBag.ErrorMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    @if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@ViewBag.SuccessMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Job Title</th>
+                <th>Company</th>
+                <th>Location</th>
+                <th>Applied Date</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var appliedJob in Model)
+            {
+                <tr>
+                    <td>@appliedJob.Job.Title</td>
+                    <td>@appliedJob.Job.CompanyName</td>
+                    <td>@appliedJob.Job.Location</td>
+                    <td>@appliedJob.SavedDate.ToString("MMMM dd, yyyy")</td>
+                    <td>
+                        <form asp-action="SaveRemove" asp-controller="JobSeeker" method="post">
+                            <input type="hidden" name="jobId" value="@appliedJob.JobId" />
+                            <input type="submit" value="Remove" class="btn btn-danger" />
+
+                        </form>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

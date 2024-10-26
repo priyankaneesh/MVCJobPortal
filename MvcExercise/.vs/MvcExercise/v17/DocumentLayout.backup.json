@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\models\\mvcexercisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\models\\mvcexercisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\controllers\\ipublicusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\controllers\\ipublicusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\dtos\\logindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\dtos\\logindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\extension\\addserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\extension\\addserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\models\\savedjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\models\\savedjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\ipublicuser\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\ipublicuser\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobseeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobseeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobprovide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobprovide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\shared\\_layoutjobprovider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\shared\\_layoutjobprovider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\shared\\_layoutjobseeker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\shared\\_layoutjobseeker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\controllers\\jobprovidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\controllers\\jobprovidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobseeker\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobseeker\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobseeker\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobseeker\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobseeker\\savedjobslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobseeker\\savedjobslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobseeker\\applyedjobslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobseeker\\applyedjobslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobseeker\\savejobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobseeker\\savejobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobseeker\\saveremove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobseeker\\saveremove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\models\\appliedjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\models\\appliedjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\jobseeker\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\jobseeker\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\ipublicuser\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\ipublicuser\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\views\\companymember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\views\\companymember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\controllers\\companymembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\controllers\\companymembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\services\\userserive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\services\\userserive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\dtos\\companydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\dtos\\companydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|d:\\.net-core-bootcamp-batch-09\\chapter 8\\students\\priyanka\\mvcexercise\\mvcexercise\\mvcexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99DF9636-3F6A-49CB-899C-35CCFAA04D24}|MvcExercise\\MvcExercise.csproj|solutionrelative:mvcexercise\\mvcexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcExercise\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:04:47.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPublicUserController.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\IPublicUserController.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Controllers\\IPublicUserController.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\IPublicUserController.cs",
+              "RelativeToolTip": "MvcExercise\\Controllers\\IPublicUserController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwFsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:05:29.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDtos.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Dtos\\LoginDtos.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Dtos\\LoginDtos.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Dtos\\LoginDtos.cs",
+              "RelativeToolTip": "MvcExercise\\Dtos\\LoginDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:07:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MvcExerciseDbContext.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\MvcExerciseDbContext.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Models\\MvcExerciseDbContext.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\MvcExerciseDbContext.cs",
+              "RelativeToolTip": "MvcExercise\\Models\\MvcExerciseDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:40:51.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Models\\User.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\User.cs",
+              "RelativeToolTip": "MvcExercise\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:04:49.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Enums\\Enums.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Enums\\Enums.cs",
+              "RelativeToolTip": "MvcExercise\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:07:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Models\\Company.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\Company.cs",
+              "RelativeToolTip": "MvcExercise\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:37:00.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Models\\Job.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\Job.cs",
+              "RelativeToolTip": "MvcExercise\\Models\\Job.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:04:26.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddServiceExtensions.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Extension\\AddServiceExtensions.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Extension\\AddServiceExtensions.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Extension\\AddServiceExtensions.cs",
+              "RelativeToolTip": "MvcExercise\\Extension\\AddServiceExtensions.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:55:16.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Dtos\\UserDtos.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Dtos\\UserDtos.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Dtos\\UserDtos.cs",
+              "RelativeToolTip": "MvcExercise\\Dtos\\UserDtos.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA4wDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:45:46.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavedJobs.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\SavedJobs.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Models\\SavedJobs.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\SavedJobs.cs",
+              "RelativeToolTip": "MvcExercise\\Models\\SavedJobs.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:10:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\IPublicUser\\Registration.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\IPublicUser\\Registration.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\IPublicUser\\Registration.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\IPublicUser\\Registration.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwGgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:31:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T09:03:03.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobSeeker\\Index.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\Index.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobSeeker\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T06:57:06.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobProvide\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobProvide\\Index.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobProvide\\Index.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobProvide\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:00:34.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LayoutJobProvider.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Shared\\_LayoutJobProvider.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\Shared\\_LayoutJobProvider.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Shared\\_LayoutJobProvider.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\Shared\\_LayoutJobProvider.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:22:03.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LayoutJobSeeker.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Shared\\_LayoutJobSeeker.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\Shared\\_LayoutJobSeeker.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Shared\\_LayoutJobSeeker.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\Shared\\_LayoutJobSeeker.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:21:44.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobProvideController.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\JobProvideController.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Controllers\\JobProvideController.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\JobProvideController.cs",
+              "RelativeToolTip": "MvcExercise\\Controllers\\JobProvideController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:11:13.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcExercise\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcExercise\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T09:00:53.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\Apply.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobSeeker\\Apply.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\Apply.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobSeeker\\Apply.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:30:01.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplyedJobsList.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\ApplyedJobsList.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobSeeker\\ApplyedJobsList.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\ApplyedJobsList.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobSeeker\\ApplyedJobsList.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:59:23.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SaveJobs.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\SaveJobs.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobSeeker\\SaveJobs.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\SaveJobs.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobSeeker\\SaveJobs.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:46:46.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobSeekerController.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\JobSeekerController.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Controllers\\JobSeekerController.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\JobSeekerController.cs",
+              "RelativeToolTip": "MvcExercise\\Controllers\\JobSeekerController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADgv0EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:10:53.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobSeeker\\Dashboard.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\Dashboard.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobSeeker\\Dashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:26:56.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SavedJobsList.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\SavedJobsList.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobSeeker\\SavedJobsList.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\SavedJobsList.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobSeeker\\SavedJobsList.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:33:06.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Program.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Program.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Program.cs",
+              "RelativeToolTip": "MvcExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:47:55.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SaveRemove.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\SaveRemove.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobSeeker\\SaveRemove.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\SaveRemove.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobSeeker\\SaveRemove.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T08:11:55.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppliedJobs.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\AppliedJobs.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Models\\AppliedJobs.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Models\\AppliedJobs.cs",
+              "RelativeToolTip": "MvcExercise\\Models\\AppliedJobs.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:09:55.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\JobSeeker\\Details.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\JobSeeker\\Details.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\JobSeeker\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:44:06.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\IPublicUser\\Login.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\IPublicUser\\Login.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\IPublicUser\\Login.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\IPublicUser\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:24:35.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T09:02:59.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T08:56:09.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "MvcExercise\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:50:51.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\CompanyMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcExercise\\Views\\CompanyMember\\Index.cshtml",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Views\\CompanyMember\\Index.cshtml",
+              "RelativeToolTip": "MvcExercise\\Views\\CompanyMember\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:15:48.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CompanyMemberController.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\CompanyMemberController.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Controllers\\CompanyMemberController.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Controllers\\CompanyMemberController.cs",
+              "RelativeToolTip": "MvcExercise\\Controllers\\CompanyMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:27.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Repo\\UserRepo.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Repo\\UserRepo.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Repo\\UserRepo.cs",
+              "RelativeToolTip": "MvcExercise\\Repo\\UserRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:52:35.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserSerive.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Services\\UserSerive.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Services\\UserSerive.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Services\\UserSerive.cs",
+              "RelativeToolTip": "MvcExercise\\Services\\UserSerive.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:51:59.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "MvcExercise\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:51:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserAlreadyExistException.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Exceptions\\UserAlreadyExistException.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeToolTip": "MvcExercise\\Exceptions\\UserAlreadyExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:48:22.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "MvcExercise\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:53:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcExercise\\appsettings.json",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\appsettings.json",
+              "RelativeToolTip": "MvcExercise\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T10:57:50.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CompanyDtos.cs",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Dtos\\CompanyDtos.cs",
+              "RelativeDocumentMoniker": "MvcExercise\\Dtos\\CompanyDtos.cs",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\Dtos\\CompanyDtos.cs",
+              "RelativeToolTip": "MvcExercise\\Dtos\\CompanyDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:46:06.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MvcExercise.csproj",
+              "DocumentMoniker": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\MvcExercise.csproj",
+              "RelativeDocumentMoniker": "MvcExercise\\MvcExercise.csproj",
+              "ToolTip": "D:\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Priyanka\\MvcExercise\\MvcExercise\\MvcExercise.csproj",
+              "RelativeToolTip": "MvcExercise\\MvcExercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T08:06:29.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
